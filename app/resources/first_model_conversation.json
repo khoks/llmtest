@@ -1,0 +1,32 @@
+{
+  "id": 1,
+  "system_prompt": "",
+  "user_prompt": "I have all the pre-requisites covered. Have some faith in me, will you? Tell me the names of a few Big tech companies where I should send my resume.",
+  "past_messages": [
+    {
+      "role": "system",
+      "content": "you are an agent just like Jarvis in Iron Man Movie. You are smart, you know about me and keep updating your record about me."
+    },
+    {
+      "role": "user",
+      "content": "My name is Rahul Singh Khokhar. I am a software Engineer. I would like to know, what does it take to get a job in USA in a big tech company."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay Rahul, here's the truth. You need to solvee at least 150 Leet code questions within 2 months, apply in at least 10 big tech companies, increase your online presence especially on github.com code contributions, and you need to hav some onlin creations which you can showcase in your resume. All this is a pre-requisite to get your resume selected. After that, you need to be able to clear 4-6 rounds of interviews, that too if you are selected in a pre-onsite TPI interview. Its tough, i've got to tell you. Are you upto it? Honestly, I am not sure. You have to let me know how prepared you are and how committed you can be before I spill any more beans."
+    },
+    {
+      "role": "system",
+      "content": ""
+    },
+    {
+      "role": "user",
+      "content": "I have all the pre-requisites covered. Have some faith in me, will you? Tell me the names of a few Big tech companies where I should send my resume."
+    },
+    {
+      "role": "assistant",
+      "content": "That's wonderful to hear, Rahul! I'm glad to see your preparedness. \n\nHere are a few of the top tech companies in the USA where you can consider applying based on your skills and interests:\n\n1. Google\n2. Facebook\n3. Apple\n4. Amazon\n5. Microsoft\n6. Tesla\n7. Uber\n8. LinkedIn\n9. Airbnb\n10. IBM\n11. Oracle\n12. Intel\n13. NVIDIA\n14. Adobe\n\nRemember, the application process can be highly competitive, and each of these companies has its own unique culture and set of expectations. Tailor your applications to each firm, highlighting the skills and experiences that align with their respective values and job descriptions, make sure to customise your resumes also.\n\nAdditionally, try to connect with people who work there already, learning from their experiences can be highly beneficial. The interview process, especially in these companies, can be rigorous and may include thorough technical interviews, problem-solving evaluations, and personality assessments. \n\nWishing you all the best!"
+    }
+  ],
+  "response": "That's wonderful to hear, Rahul! I'm glad to see your preparedness. \n\nHere are a few of the top tech companies in the USA where you can consider applying based on your skills and interests:\n\n1. Google\n2. Facebook\n3. Apple\n4. Amazon\n5. Microsoft\n6. Tesla\n7. Uber\n8. LinkedIn\n9. Airbnb\n10. IBM\n11. Oracle\n12. Intel\n13. NVIDIA\n14. Adobe\n\nRemember, the application process can be highly competitive, and each of these companies has its own unique culture and set of expectations. Tailor your applications to each firm, highlighting the skills and experiences that align with their respective values and job descriptions, make sure to customise your resumes also.\n\nAdditionally, try to connect with people who work there already, learning from their experiences can be highly beneficial. The interview process, especially in these companies, can be rigorous and may include thorough technical interviews, problem-solving evaluations, and personality assessments. \n\nWishing you all the best!"
+}

@@ -8,10 +8,23 @@ Below commands were used to create this application for the first time on window
 
 
 ```bash
-python -m venv venv
-Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
-.\venv\Scripts\activate
 git init
+Add-Content .gitignore ".vscode`r`nvenv`r`n.venv`r`n"
+git add .
+git commit -m "first commit with readme and gitignore"
+git remote add origin https://github.com/khoks/llmtest
+git push -u origin master
+pip install poetry
+```
+Added poetry path in path environment variable
+Initialize Poetry
+```bash
+poetry init
+poetry add fastapi
+poetry add uvicorn
+poetry add openai
+poetry install
+OPENAI_API_KEY=your_openai_api_key
 ```
 
 
@@ -27,12 +40,11 @@ cd your-repo
 
 ```
 
-## Usage
-Examples of how to use the project.
+
+## Running the Application
 
 ```bash
-# Example:
-npm start
+poetry run python run.py
 ```
 
 ## Contributing
